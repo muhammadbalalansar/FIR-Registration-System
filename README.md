@@ -4,6 +4,7 @@
  This is a project built to replicate FIR complaint filing system on the blockchain using NEXT.js, tailwind css and ThirdWeb.
  
  # Screenshot of the dApp:
+
  
 ![dApp_screenshot_without_admin_panel](https://user-images.githubusercontent.com/107293201/202850138-419b8598-2ea7-4c0f-9604-ff43ffde42ee.png)
 

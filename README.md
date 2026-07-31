@@ -19,6 +19,7 @@ yarn add @thirdweb-dev/react @thirdweb-dev/sdk ethers react-hot-toast
 6. While deploying you will have to fill the constructor argument with an address for officer's address(suggestion: should be separate from deployer's address)
 7. Copy the smart contract address and assign it to NEXT_PUBLIC_SMART_CONTRACT that you had created
 8. Open terminal and run command: yarn dev
+9. 
 
 ⭐Give this repo a star if you found some value in it. 
 Thanks!

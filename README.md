@@ -11,7 +11,7 @@
 yarn add @thirdweb-dev/react @thirdweb-dev/sdk ethers react-hot-toast
 
 
-# Steps to run this project:
+# Steps to run this project
 
 1. Git clone this repo
 2. Install the project dependencies

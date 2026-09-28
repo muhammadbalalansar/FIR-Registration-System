@@ -1,4 +1,4 @@
-**By Muhammad Balal Ansar (Cyber Security Expert)**
+**FIRBy Muhammad Balal Ansar (Cyber Security Expert)**
 
 # Complaint-Registeration-dApp
  This is a project built to replicate FIR complaint filing system on the blockchain using NEXT.js, tailwind css and ThirdWeb.
